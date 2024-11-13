@@ -1,6 +1,16 @@
 
 [![](https://img.shields.io/pypi/pyversions/pydiator-core.svg)](https://pypi.org/project/pydiator-core/) ![example event parameter](https://github.com/ozgurkara/pydiator-core/workflows/CI/badge.svg) [![Coverage Status](https://coveralls.io/repos/github/ozgurkara/pydiator-core/badge.svg?branch=master)](https://coveralls.io/github/ozgurkara/pydiator-core?branch=master)  [![](https://img.shields.io/pypi/wheel/pydiator-core.svg)](https://pypi.org/project/pydiator-core/) [![](https://img.shields.io/pypi/format/pydiator-core.svg)](https://pypi.org/project/pydiator-core/)
 
+# Archived
+
+This repository has been archived and is no longer maintained.
+
+### Overview
+This fork was previously used by the **assessments** service.
+
+### Replacement Details
+The transition back to pydiator-core is implemented in this pull request [(PR #115)](https://github.com/FluencyAcademy/assessments/pull/115/files). This change reflects our ongoing efforts to simplify dependencies and maintain consistency across services.
+
 # Installation
 
 https://pypi.org/project/pydiator-core/
