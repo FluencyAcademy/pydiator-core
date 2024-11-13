@@ -6,10 +6,10 @@
 This repository has been archived and is no longer maintained.
 
 ### Overview
-This fork was previously used by the **assessments** service.
+This fork was previously used by the our services.
 
 ### Replacement Details
-The transition back to pydiator-core is implemented in this pull request [(PR #115)](https://github.com/FluencyAcademy/assessments/pull/115/files). This change reflects our ongoing efforts to simplify dependencies and maintain consistency across services.
+The transition back to pydiator-core is implemented and this change reflects our ongoing efforts to simplify dependencies and maintain consistency across services.
 
 # Installation
 
